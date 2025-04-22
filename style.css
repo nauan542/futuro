@@ -1,3 +1,35 @@
-.cabeçalho{background-color: blue;
-color: black;
-}
+.cabeçalho {
+    background-color: #3b82f6; /* azul mais suave */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+    }
+    
+    .lista-principal {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    width:20px;
+    font-size: 20px;
+    
+    }
+    
+    
+    .jurandir {
+    font-size: 20px;
+    color: rgb(245, 237, 3);
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(242, 32, 13);
+    }
+    
+    .item{
+    background-color: rgb(21, 52, 211);
+    color: #dd0bf0;
+    padding:8px 12px ;
+    border-radius: 8px;
+    font-weight: bold;
+    }
